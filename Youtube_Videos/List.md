@@ -12,5 +12,6 @@
 11. [Start New Project 4 كيف نبدأ بعمل مشروع جديد في الويب فلو](https://www.youtube.com/watch?v=I3gvdnJ6nxo&t=25s)
 12. [start new project 5 كيف نبدأ بعمل مشروع جديد في الويب فلو](https://www.youtube.com/watch?v=KdiJZ9MGBxE)
 13. [Start New Project 6 كيف نبدأ بعمل مشروع جديد في الويب فلو](https://www.youtube.com/watch?v=gswLcNfckm8)
+14. [Design Hero Section تصميم قسم الهيرو](https://www.youtube.com/watch?v=Cs-L0Hfpa38)
 
 
