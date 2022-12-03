@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-List of the Youtube Videos
-1- Webflow Registration الاشتراك في الويب فلو
-2- WebFlom Graphical User Interface واجهة المستخدم في الويب فلو
-3- start new project 1 كيف نبدأ بعمل مشروع جديد في الويب فلو
-3- Start New Project 2 كيف نبدأ بعمل مشروع جديد في الويب فلو
-3- Start New Project 3 كيف نبدأ بعمل مشروع جديد في الويب فلو
-4- Start New Project 4 كيف نبدأ بعمل مشروع جديد في الويب فلو
-5- asdfasdfasdf
-6- asdfasdf
-7- asdfasdf
-8- asdfasdf
-9- asdfasdfasdf
-10- asdfasdfasdf
-=======
 # List of the Youtube Videos  قائمة بالفيديوهات التي ستعرض في أثناء الدورة
 ---
 1. [Start الدورة التدريبية](https://www.youtube.com/watch?v=2wanrhJ047w)
@@ -28,4 +13,4 @@ List of the Youtube Videos
 12. [start new project 5 كيف نبدأ بعمل مشروع جديد في الويب فلو](https://www.youtube.com/watch?v=KdiJZ9MGBxE)
 13. [Start New Project 6 كيف نبدأ بعمل مشروع جديد في الويب فلو](https://www.youtube.com/watch?v=gswLcNfckm8)
 
->>>>>>> 93313c37c257db28c390d7466e60ba3ef469db5c
+
